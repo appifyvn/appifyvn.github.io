@@ -1,2 +1,2 @@
-# appifyvn.github.io
-appifyvn website
+# Appify
+#1 CRM for SMEs
