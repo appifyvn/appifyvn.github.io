@@ -1,2 +1,2 @@
 # Appify
-#1 CRM for SMEs
+CRM (Customer Relationship Management) for SMEs
